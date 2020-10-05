@@ -12,7 +12,7 @@
 
 ### Database Connection
 =========================
-I used MySQL Database as provided in details below:
+- I used MySQL Database as provided in details below:
 
 - Database Script is included in /sql
 - The .env file is included intentionally for ease of database connection
