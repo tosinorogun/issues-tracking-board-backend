@@ -1,4 +1,4 @@
-## API Endpoints for Lumatic Issues Tracker
+## API Endpoints for Issues Tracker
 ================================================
 
 ### The list below are the API Endpoints created for this exercise. 
